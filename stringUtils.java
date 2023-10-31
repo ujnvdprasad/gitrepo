@@ -1,1 +1,1 @@
-This is java class which contains string related functions..
+i edited this file
